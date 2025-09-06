@@ -29,7 +29,7 @@ PORT = os.environ.get("PORT", "8080")
 
 #Database --⚠️ REQUIRED--
 DB_URI = os.environ.get("DATABASE_URL", "")
-DB_NAME = os.environ.get("DATABASE_NAME", "moonfiles")
+DB_NAME = os.environ.get("DATABASE_NAME", "New_Animes_Files_Bot")
 
 TG_BOT_WORKERS = int(os.environ.get("Play_toon_bot", "4"))
 
