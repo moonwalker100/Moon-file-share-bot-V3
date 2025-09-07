@@ -42,9 +42,9 @@ HELP_TEXT = """<b>⁉️ Hᴇʟʟᴏ {mention} ~
 ‣ /help -</b> Oᴘᴇɴ ᴛʜɪs ʜᴇʟᴘ ᴍᴇssᴀɢᴇ !</blockquote>
 <b><i>◈ Sᴛɪʟʟ ʜᴀᴠᴇ ᴅᴏᴜʙᴛs, ᴄᴏɴᴛᴀᴄᴛ ʙᴇʟᴏᴡ ᴘᴇʀsᴏɴs/ɢʀᴏᴜᴘ ᴀs ᴘᴇʀ ʏᴏᴜʀ ɴᴇᴇᴅ !</i></b>"""
 
-ABOUT_TXT = """<b>🤖 ᴍʏ ɴᴀᴍᴇ: {botname}
+ABOUT_TXT = """<b>🤖 ᴍʏ ɴᴀᴍᴇ: {MILKY MOON BOT}
 
-<b><blockquote expandable>» ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/metaui>ʜᴀᴍᴢᴀ</a>\n» ᴏᴜʀ ᴄᴏᴍᴍᴜɴɪᴛʏ : <a href=https://t.me/+OuiQPuWwlfIyNGM1n>PythonBotz</a>\n» ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/AniHorizon>ᴀɴɪ ʜᴏʀɪᴢᴏɴ </a>\n» sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : <a href=https://t.me/+S6jna9Xe3-UyODhl>ᴄᴏᴅᴇ</a>\n» ʙᴏᴛ ᴄʜᴀɴɴᴇʟ : <a href=t.me/pythonbotz>ᴘʏᴛʜᴏɴ ʙᴏᴛᴢ</a>\n» ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/metaui>ᴍᴇᴛᴀ ᴜɪ</a></b></blockquote>"""
+<b><blockquote expandable>» ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/Black_walker_id>Bʟᴀᴄᴋ Wᴀʟᴋᴇʀ 🜲</a>\n» ᴏᴜʀ ᴄᴏᴍᴍᴜɴɪᴛʏ : <a href=https://t.me/play_tamil_dubbed_series>ᴘʟᴀʏ ᴄᴏᴍᴍᴜɴɪᴛʏ</a>\n» ᴀᴅᴠᴀɴᴄᴇ ғᴇᴀᴛᴜʀᴇs : <a href=https://telegra.ph/BOT-FEATURES-11-09-28>ᴀɴɪ ʜᴏʀɪᴢᴏɴ </a>\n» sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : <a href=https://t.me/+S6jna9Xe3-UyODhl>ᴄᴏᴅᴇ</a>\n» ʙᴏᴛ ᴄʜᴀɴɴᴇʟ : <a href=t.me/pythonbotz>ᴘʏᴛʜᴏɴ ʙᴏᴛᴢ</a>\n» ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/metaui>ᴍᴇᴛᴀ ᴜɪ</a></b></blockquote>"""
 
 SETTING_TXT = """<b>⚙️ Cᴏɴғɪɢᴜʀᴀᴛɪᴏɴs</b>
 <blockquote expandable>◈ ᴛᴏᴛᴀʟ ғᴏʀᴄᴇ sᴜʙ ᴄʜᴀɴɴᴇʟ:  <b>{total_fsub}</b>
