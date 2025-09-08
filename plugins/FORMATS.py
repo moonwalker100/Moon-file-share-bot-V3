@@ -8,9 +8,9 @@ files_cmd_pic = "https://envs.sh/Vx_.jpg"
 autodel_cmd_pic = "https://envs.sh/Vxc.jpg"
 
 #start message
-START_MSG = """<b>⚡ Yo, {mention} ~
+START_MSG = """<b>⚡ Hᴇʏ, {mention} ~
 
-<blockquote expandable>You woke me up!\nReady to dive into some chaos and grab what you need?\n\nFiles, fun and a whole lotta energy—let’s roll!.</blockquote></b>"""
+<blockquote expandable>I ᴀᴍ ᴀɴ ᴀᴅᴠᴀɴᴄᴇ ғɪʟᴇ sʜᴀʀᴇ ʙᴏᴛ V3!\nTʜᴇ ʙᴇsᴛ ᴘᴀʀᴛ ɪs ɪ ᴀᴍ ᴀʟsᴏ sᴜᴘᴘᴏʀᴛ ʀᴇǫᴜᴇsᴛ ғᴏʀᴄᴇsᴜʙ ғᴇᴀᴛᴜʀᴇ, Tᴏ ᴋɴᴏᴡ ᴅᴇᴛᴀɪʟᴇᴅ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴄʟɪᴄᴋ ᴀʙᴏᴜᴛ ᴍᴇ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴋɴᴏᴡ ᴍʏ ᴀʟʟ ᴀᴅᴠᴀɴᴄᴇ ғᴇᴀᴛᴜʀᴇs!.</blockquote></b>"""
 
 #Force sub message 
 FORCE_MSG = """<b><blockquote>⚠️ Hᴇʏ, {mention} ×</blockquote>
